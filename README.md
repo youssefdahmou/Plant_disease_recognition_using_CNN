@@ -1,0 +1,2 @@
+# Plant_disease_recognition_using_CNN
+Plant_disease_recognition_using_CNN
